@@ -14,29 +14,6 @@ Este é um projeto simples em Python para a gestão básica de notas de um únic
 
 ---
 
-### 💻 Como Executar
-
-Para rodar este sistema, você precisa ter o Python instalado em sua máquina.
-
-1.  **Clone o Repositório** (ou copie o código para um arquivo chamado `sistema_notas.py`):
-    ```bash
-    git clone [LINK DO SEU REPOSITÓRIO]
-    ```
-
-2.  **Navegue até a pasta do projeto:**
-    ```bash
-    cd sistema-de-notas
-    ```
-
-3.  **Execute o script Python:**
-    ```bash
-    python sistema_notas.py
-    ```
-
-4.  Siga as instruções exibidas no console (digite o nome do aluno e as notas solicitadas).
-
----
-
 ### ⚙️ Detalhes Técnicos
 
 O código é estruturado em uma única função (`sistema_notas`) e utiliza as seguintes características do Python:
